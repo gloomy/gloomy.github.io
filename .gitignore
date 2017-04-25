@@ -1,0 +1,11 @@
+.idea/*
+.env
+.DS_Store
+.buildpath
+.project
+.settings
+.tmp
+*.user
+*.suo
+_ide_helper.php
+.phpstorm.meta.php
